@@ -1,0 +1,18 @@
+ARIMA and SARIMA
+    - https://colab.research.google.com/drive/1-DUTD9cbWZBcJcFGRpaFYM_Pue7Pxtcp?usp=sharing
+
+LSTM
+    - https://colab.research.google.com/drive/1m1EL6gV58DFfsFfLEjYre88sWSPO27Pv?usp=sharing
+
+Data Preprocessing and Visualization
+    - https://colab.research.google.com/drive/1JUgYAwFlw9o9hZXn0vy6rUL0FLllR1HF?usp=sharing
+    - https://colab.research.google.com/drive/1KXEEUZ7TAzy_t0s7nqEN_yKYTOSAwwJe?usp=sharing
+
+
+Github
+    - https://github.com/Marutatmaj/Project-2025-TMsir
+
+
+
+
+
